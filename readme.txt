@@ -1,0 +1,1 @@
+Another Codecademy classes oriented JS mini-project.
